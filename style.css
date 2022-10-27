@@ -1,0 +1,19 @@
+*{
+    color: brown;
+    background-color: antiquewhite;
+    background: rgb(177, 210, 30);
+    font-family: Arial, Helvetica, sans-serif ;
+    
+}
+body{
+    background-color: #f8f7f7;
+}
+label{
+    color: aqua;
+    font-size: x-large;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 50%;
+}
